@@ -1,0 +1,5 @@
+* Spice netlister for gnetlist
+L? 2 0 34mH
+R1 1 2 91kOhm
+V 0 1 8.5V
+.END
